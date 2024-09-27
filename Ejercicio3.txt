@@ -1,0 +1,9 @@
+Inicio
+escribe ‘un numero’
+lee ‘z’
+S = 1
+mientras (S+1)<Z
+si Z % S+1 = 0
+EL nuero es primo
+sino
+el numero no es primo 

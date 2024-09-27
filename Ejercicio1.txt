@@ -1,0 +1,6 @@
+inicio
+Escribir 'un numero'
+si x % 2==0 entonces
+    Escribir 'numero, 'X, 'es par'
+sino 
+    Escribir 'numero, 'X, 'es impar'

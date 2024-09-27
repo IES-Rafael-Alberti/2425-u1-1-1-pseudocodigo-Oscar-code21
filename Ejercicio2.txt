@@ -1,0 +1,7 @@
+Inicio
+Escribir ‘Un numero’
+Leer ‘’R’’
+	Escribir Z=0
+para Z hasta (10)
+	Escribir (R*(Z+1))
+Fin
